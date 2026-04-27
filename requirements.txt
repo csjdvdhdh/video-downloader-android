@@ -1,0 +1,4 @@
+herekivy==2.2.1
+kivymd==1.1.1
+yt-dlp==2024.3.10
+buildozer==1.5.0
